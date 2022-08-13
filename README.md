@@ -4,8 +4,16 @@
   </a>
 </p>
 
-<h1 align="center">
- Exemplo de templeta básico site usando HTML/CSS
-</h1>
-<img alt="Ionic" src="https://github.com/diegobda/templete-site-basico/blob/main/Screenshot%20from%202022-08-13%2018-39-29.png" width="60" />
+# :desktop_computer: Exemplo de templete básico site
+
+📋Pagina  **Flex Turismo** 
+
+Tecnologias usadas
+
+*html // css // 
+
+<u>Vesion 0.1.0</u>
+
+<img src="https://github.com/diegobda/templete-site-basico/blob/main/Screenshot%20from%202022-08-13%2018-39-29.png" width="60"/>
+
 
