@@ -14,6 +14,6 @@ Tecnologias usadas
 
 <u>Vesion 0.1.0</u>
 
-<img src="https://github.com/diegobda/templete-site-basico/blob/main/Screenshot%20from%202022-08-13%2018-39-29.png" width="60"/>
+<img src="https://raw.githubusercontent.com/diegobda/templete-site-basico/main/Screenshot%20from%202022-08-13%2018-39-29.png"/>
 
 
